@@ -1,0 +1,25 @@
+{
+  "name": "lawyerify-example-site-international",
+  "version": "1.0.0",
+  "homepage": "https://www.hugolify.io",
+  "repository": "https://github.com/hugolify/lawyerify-example-site-international",
+  "bugs": {
+    "url": "https://github.com/hugolify/lawyerify-example-site-international/issues"
+  },
+  "author": {
+    "email": "sebousan@gmail.com",
+    "name": "Sébastien Moulène",
+    "url": "https://www.sebastienmoulene.com/"
+  },
+  "keywords": [
+    "lawyerify",
+    "hugolify",
+    "hugo",
+    "hugo-theme",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@hugolify/prettier-config": "^0.3.1"
+  }
+}

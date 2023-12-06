@@ -1,0 +1,50 @@
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: content
+      target: content
+    - source: data
+      target: data
+    - source: layouts
+      target: layouts
+
+languages:
+  fr:
+    permalinks:
+      expertises: /expertises/:slug/
+      persons: /equipe/:slug/
+      persons_expertises: /equipe/expertises/:slug/
+      persons_places: /equipe/cabinets/:slug/
+      persons_statutes: /equipe/status/:slug/
+      places: /cabinet/:slug/
+      publications: /parutions/:year-:slug/
+      publications_categories: /parutions/categories/:slug/
+      publications_expertises: /parutions/expertises/:slug/
+      publications_persons: /parutions/avocats/:slug/
+  en:
+    permalinks:
+      expertises: /expertises/:slug/
+      persons: /team/:slug/
+      persons_expertises: /team/expertises/:slug/
+      persons_places: /team/firms/:slug/
+      persons_statutes: /team/status/:slug/
+      places: /firm/:slug/
+      publications: /publications/:year-:slug/
+      publications_categories: /publications/categories/:slug/
+      publications_expertises: /publications/expertises/:slug/
+      publications_persons: /publications/lawyers/:slug/
+
+params:
+  _merge: deep
+  expertises:
+    _merge: deep
+    thumbnail:
+      _merge: deep
+      desktop: '636x273'
+  persons:
+    _merge: deep
+    thumbnail:
+      _merge: deep
+      desktop: "306x372"
+      mobile: "300x365"

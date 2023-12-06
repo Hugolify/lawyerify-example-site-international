@@ -1,0 +1,16 @@
+fr:
+  links:
+    - title: Linkedin
+      url: https://linkedin.com/showcase/lawyerify
+      blank: true
+    - title: Twitter
+      url: https://twitter.com/lawyerify
+      blank: true
+en:
+  links:
+    - title: Linkedin
+      url: https://linkedin.com/showcase/lawyerify
+      blank: true
+    - title: Twitter
+      url: https://twitter.com/lawyerify
+      blank: true

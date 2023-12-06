@@ -1,0 +1,25 @@
+fr:
+  links:
+    - title: Le cabinet
+      url: /cabinet/
+    - title: Equipe
+      url: /equipe/
+    - title: Expertises
+      url: /expertises/
+    - title: Parutions
+      url: /parutions/
+    - title: Contact
+      url: /contact/
+
+en:
+  links:
+    - title: The firm
+      url: /en/firm/
+    - title: Team
+      url: /en/team/
+    - title: Expertises
+      url: /en/expertises/
+    - title: Publications
+      url: /en/publications/
+    - title: Contact
+      url: /en/contact/
