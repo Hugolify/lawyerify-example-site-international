@@ -8,6 +8,8 @@ module:
       target: data
     - source: layouts
       target: layouts
+    - source: static
+      target: static
 
 languages:
   fr:
