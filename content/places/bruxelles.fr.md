@@ -17,13 +17,6 @@ contact:
 image:
   src: /images/uploads/stephanie-leblanc-suTr28QV4wU-unsplash.jpg
   credit: Photo de [Stephanie LeBlanc](https://unsplash.com/fr/@sleblanc01?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/fr/photos/batiments-en-beton-blanc-suTr28QV4wU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash")
-blocks:
-  - type: map
-    location: '{"type":"Point","coordinates":[4.3754171,50.855124]}'
-    zoom: 13
-    background: false
-    title: Nullam aliquet sed sem sit amet tristique.
-    text: Quisque ipsum nisi, tempor quis fermentum non, iaculis vel augue.
 ---
 
 Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum.
