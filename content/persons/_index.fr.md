@@ -1,5 +1,5 @@
 ---
-isIndex: false
+isIndex: true
 draft: false
 title: Equipe
 url: equipe

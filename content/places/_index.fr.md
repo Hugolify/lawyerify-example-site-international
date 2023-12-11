@@ -1,5 +1,6 @@
 ---
 isIndex: true
+draft: false
 title: Nos cabinets
 url: cabinet
 hero:

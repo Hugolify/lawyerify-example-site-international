@@ -1,5 +1,5 @@
 ---
-isIndex: true
+isIndex: false
 title: Expertises
 url: expertises
 image:

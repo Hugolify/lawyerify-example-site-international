@@ -1,5 +1,6 @@
 ---
-isIndex: true
+isIndex: false
+draft: false
 title: Our offices
 url: firm
 hero:

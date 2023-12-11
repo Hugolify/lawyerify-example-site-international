@@ -50,3 +50,8 @@ params:
       _merge: deep
       desktop: "306x372"
       mobile: "300x365"
+  places:
+    _merge: deep
+    items:
+      _merge: deep
+      large: false
