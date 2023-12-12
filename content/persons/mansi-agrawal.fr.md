@@ -1,20 +1,22 @@
 ---
 isIndex: false
 draft: false
-title: Omar Altman
-persons_statutes: Associé
+title: Mansi Agrawal
+persons_statutes: Juriste
 persons_places:
   - londres
 persons_expertises:
   - droit-du-travail
-  - droit-penal
-  - droit-des-affaires
-description: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum.
+description: Vivamus tincidunt malesuada lorem eget sodales.
 image:
-  src: /images/uploads/ali-morshedlou-wmd64tmfc4k-unsplash.jpg
-  credit: Photo de [Ali
-    Morshedlou](https://unsplash.com/@alimorshedlou?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-    sur [Unsplash](https://unsplash.com/fr/photos/WMD64tMfc4k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  src: /images/uploads/angshu-purkait-md59bW9z4pA-unsplash.jpg
+  credit: Photo de <a href="https://unsplash.com/fr/@angshu_purkait?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Angshu Purkait</a> sur <a href="https://unsplash.com/fr/photos/une-fille-en-robe-noire-posant-pour-une-photo-md59bW9z4pA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+contact:
+  email: contact@lawyerify.io
+  phone: +33 (0) 1 12 34 56 78
+  fax: +33 (0) 1 12 34 56 78
+  linkedin: https://www.linkedin.com/company/un-cinq/
+  twitter: https://twitter.com/uncinq_dev/
 ---
 ## Présentation 
 

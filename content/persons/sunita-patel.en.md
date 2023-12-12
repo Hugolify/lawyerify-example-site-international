@@ -1,19 +1,22 @@
 ---
 isIndex: false
 draft: false
-title: Elena Dominici
-persons_statutes: Juriste
+title: Sunita Patel
+persons_statutes: Collaborateur
 persons_places:
-  - milan
+  - londres
 persons_expertises:
-  - droit-penal
-description: Suspendisse egestas augue a egestas consectetur. Aliquam interdum
-  hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel nibh.
-  Cras ac facilisis nunc.
+  - droit-du-travail
+description: Vivamus tincidunt malesuada lorem eget sodales.
 image:
-  src: /images/uploads/szvoreny-attila-Z_DjhwOUvTw-unsplash.jpg
-  credit: Photo de [Szvoreny Attila](https://unsplash.com/fr/@granddesign?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-    sur [Unsplash](https://unsplash.com/fr/photos/t-shirt-a-col-rond-femme-en-noir-Z_DjhwOUvTw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+  src: /images/uploads/christina-wocintechchat-com-kXfBDl0fR1E-unsplash.jpg
+  credit: Photo de [Christina @ wocintechchat.com](https://unsplash.com/fr/@wocintechchat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/fr/photos/femme-en-blazer-noir-a-laide-dun-macbook-kXfBDl0fR1E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+contact:
+  email: contact@lawyerify.io
+  phone: +33 (0) 1 12 34 56 78
+  fax: +33 (0) 1 12 34 56 78
+  linkedin: https://www.linkedin.com/company/un-cinq/
+  twitter: https://twitter.com/uncinq_dev/
 ---
 ## Presentation 
 

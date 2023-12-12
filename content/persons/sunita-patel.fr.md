@@ -1,20 +1,22 @@
 ---
 isIndex: false
 draft: false
-title: Omar Altman
-persons_statutes: Associé
+title: Sunita Patel
+persons_statutes: Collaborateur
 persons_places:
   - londres
 persons_expertises:
   - droit-du-travail
-  - droit-penal
-  - droit-des-affaires
-description: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum.
+description: Vivamus tincidunt malesuada lorem eget sodales.
 image:
-  src: /images/uploads/ali-morshedlou-wmd64tmfc4k-unsplash.jpg
-  credit: Photo de [Ali
-    Morshedlou](https://unsplash.com/@alimorshedlou?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-    sur [Unsplash](https://unsplash.com/fr/photos/WMD64tMfc4k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  src: /images/uploads/christina-wocintechchat-com-kXfBDl0fR1E-unsplash.jpg
+  credit: Photo de [Christina @ wocintechchat.com](https://unsplash.com/fr/@wocintechchat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/fr/photos/femme-en-blazer-noir-a-laide-dun-macbook-kXfBDl0fR1E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+contact:
+  email: contact@lawyerify.io
+  phone: +33 (0) 1 12 34 56 78
+  fax: +33 (0) 1 12 34 56 78
+  linkedin: https://www.linkedin.com/company/un-cinq/
+  twitter: https://twitter.com/uncinq_dev/
 ---
 ## Présentation 
 

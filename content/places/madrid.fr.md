@@ -2,6 +2,7 @@
 isIndex: false
 draft: false
 title: Madrid
+description: Quisque vestibulum, mi eget semper laoreet
 address:
   coordinates:
     lat: 40.4379543

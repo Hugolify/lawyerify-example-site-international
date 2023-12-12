@@ -1,19 +1,22 @@
 ---
 isIndex: false
 draft: false
-title: Elena Dominici
+title: Mansi Agrawal
 persons_statutes: Juriste
 persons_places:
-  - milan
+  - londres
 persons_expertises:
-  - droit-penal
-description: Suspendisse egestas augue a egestas consectetur. Aliquam interdum
-  hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel nibh.
-  Cras ac facilisis nunc.
+  - droit-du-travail
+description: Vivamus tincidunt malesuada lorem eget sodales.
 image:
-  src: /images/uploads/szvoreny-attila-Z_DjhwOUvTw-unsplash.jpg
-  credit: Photo de [Szvoreny Attila](https://unsplash.com/fr/@granddesign?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-    sur [Unsplash](https://unsplash.com/fr/photos/t-shirt-a-col-rond-femme-en-noir-Z_DjhwOUvTw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+  src: /images/uploads/angshu-purkait-md59bW9z4pA-unsplash.jpg
+  credit: Photo de <a href="https://unsplash.com/fr/@angshu_purkait?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Angshu Purkait</a> sur <a href="https://unsplash.com/fr/photos/une-fille-en-robe-noire-posant-pour-une-photo-md59bW9z4pA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+contact:
+  email: contact@lawyerify.io
+  phone: +33 (0) 1 12 34 56 78
+  fax: +33 (0) 1 12 34 56 78
+  linkedin: https://www.linkedin.com/company/un-cinq/
+  twitter: https://twitter.com/uncinq_dev/
 ---
 ## Presentation 
 

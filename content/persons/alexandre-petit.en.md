@@ -17,17 +17,17 @@ contact:
   linkedin: https://www.linkedin.com/company/un-cinq/
   twitter: https://twitter.com/uncinq_dev/
 ---
-## Présentation 
+## Presentation 
 
 Me Alexandre Petit a acquis une réputation exemplaire en tant qu'avocat compétent et dévoué. Fort de nombreuses années d'expérience dans le domaine juridique, Me Petit s'est distingué par son professionnalisme, son éthique et son engagement envers la défense des droits de ses clients.
 
-### Parcours professionnel
+### Professionnal career
 
 Me Petit a débuté sa carrière en tant que stagiaire dans l'un des cabinets juridiques les plus réputés de la région. Sa passion pour la justice et son désir de faire une réelle différence dans la vie des gens l'ont rapidement propulsé vers des responsabilités croissantes. Au fil des années, il a gagné en expertise dans divers domaines du droit, notamment le droit pénal, le droit civil et le droit des affaires.
 
 Son approche méthodique, sa compréhension approfondie des lois et sa capacité à naviguer dans des situations juridiques complexes font de Me Petit un choix naturel pour ceux qui cherchent une représentation juridique exceptionnelle.
 
-### Formation et éducation
+### Training and specialization
 
 Me Petit est diplômé en droit de l'Université de Paris. Sa formation exhaustive et son apprentissage continu des évolutions juridiques garantissent à ses clients une représentation basée sur une compréhension approfondie du droit en constante évolution.
 

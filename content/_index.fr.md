@@ -12,15 +12,26 @@ hero:
     url: /cabinet/
   cta_second:
     blank: false
-    text: Notre expertise
-    url: /expertises/droit-penal/
+    text: Nos expertises
+    url: /expertises/
   image:
     src: /images/uploads/clovis-wood-photography-d8PfS9nprEk-unsplash.jpg
 blocks:
+  - type: selected-expertises
+    section: expertises
+    show_more: false
+    heading:
+      surtitle: Expertises
+      title: Nos domaines de compétences
+    items:
+      - droit-penal
+      - droit-du-travail
+      - droit-des-affaires
   - type: selected-places
     section: places
     show_more: false
     heading:
+      surtitle: Cabinets
       title: Nos cabinets au cœur de l’Europe
     items:
       - paris
@@ -31,6 +42,7 @@ blocks:
     section: persons
     show_more: false
     heading:
+      surtitle: Equipe dirigeante
       title: Les associés du cabinet
     items:
       - alexandre-petit
@@ -42,6 +54,7 @@ blocks:
     background: true
     count: 4
     heading:
+      surtitle: Presse
       title: Les dernières parutions
   - type: cta
     background: true

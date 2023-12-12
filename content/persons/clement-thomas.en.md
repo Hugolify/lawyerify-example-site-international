@@ -14,7 +14,7 @@ image:
     sur [Unsplash](https://unsplash.com/fr/photos/E9PFbdhZmus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   src: /images/uploads/dmitry-vechorko-e9pfbdhzmus-unsplash.jpg
 ---
-## Présentation 
+## Presentation 
 
 Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna. Nunc tempus felis ante, eget commodo ex ullamcorper eu.
 
@@ -22,7 +22,7 @@ Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. A
 
 Cras vel tincidunt urna. Aliquam tempor tincidunt augue, in iaculis neque consectetur et.
 
-### Formation et éducation
+### Training and specialization
 
 * Aliquam tempor tincidunt augue, in iaculis neque consectetur et.
 * Quisque sed tortor vel tortor tincidunt tristique id nec urna. Nunc tempus felis ante, eget commodo ex ullamcorper eu.

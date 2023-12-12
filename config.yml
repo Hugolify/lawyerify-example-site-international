@@ -39,11 +39,6 @@ languages:
 
 params:
   _merge: deep
-  expertises:
-    _merge: deep
-    thumbnail:
-      _merge: deep
-      desktop: '636x273'
   persons:
     _merge: deep
     thumbnail:

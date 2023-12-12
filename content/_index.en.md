@@ -17,6 +17,15 @@ hero:
   image:
     src: /images/uploads/clovis-wood-photography-d8PfS9nprEk-unsplash.jpg
 blocks:
+  - type: selected-expertises
+    section: expertises
+    show_more: false
+    heading:
+      title: Nos expertises
+    items:
+      - droit-penal
+      - droit-du-travail
+      - droit-des-affaires
   - type: selected-places
     section: places
     show_more: false

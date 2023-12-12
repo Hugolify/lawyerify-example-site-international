@@ -17,17 +17,17 @@ image:
     sur
     [Unsplash](https://unsplash.com/fr/photos/mEZ3PoFGs_k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 ---
-## Présentation 
+## Presentation 
 
 Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum. 
 
-### Parcours professionnel
+### Professionnal career
 
 Donec varius velit nisi, a accumsan odio molestie ut. Donec quis tristique elit. Nunc tempus tempor neque a fringilla.
 
 Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. 
 
-### Formation et éducation
+### Training and specialization
 
 Aliquam tempor tincidunt augue, in iaculis neque consectetur et tempor.
 
