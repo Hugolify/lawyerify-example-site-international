@@ -26,16 +26,10 @@ blocks:
       - droit-penal
       - droit-du-travail
       - droit-des-affaires
-  - type: selected-places
-    section: places
-    show_more: false
+  - type: map
+    show_places: true
     heading:
       title: Our offices in the heart of Europe
-    items:
-      - paris
-      - londres
-      - bruxelles
-      - milan
   - type: selected-persons
     section: persons
     show_more: false
