@@ -6,6 +6,8 @@ fr:
       url: /equipe/
     - title: Expertises
       url: /expertises/
+    - title: Actualité
+      url: /actualite/
     - title: Parutions
       url: /parutions/
     - title: Contact
@@ -19,6 +21,8 @@ en:
       url: /en/team/
     - title: Expertises
       url: /en/expertises/
+    - title: News
+      url: /en/news/
     - title: Publications
       url: /en/publications/
     - title: Contact

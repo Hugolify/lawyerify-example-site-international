@@ -20,6 +20,8 @@ languages:
       persons_places: /equipe/cabinets/:slug/
       persons_statutes: /equipe/status/:slug/
       places: /cabinet/:slug/
+      posts: /actualite/:year-:month-:day-:slug/
+      postss_categories: /actualite/categories/:slug/
       publications: /parutions/:year-:slug/
       publications_categories: /parutions/categories/:slug/
       publications_expertises: /parutions/expertises/:slug/
@@ -32,6 +34,8 @@ languages:
       persons_places: /team/firms/:slug/
       persons_statutes: /team/status/:slug/
       places: /firm/:slug/
+      posts: /news/:year-:month-:day-:slug/
+      postss_categories: /news/categories/:slug/
       publications: /publications/:year-:slug/
       publications_categories: /publications/categories/:slug/
       publications_expertises: /publications/expertises/:slug/
@@ -45,6 +49,11 @@ params:
       _merge: deep
       desktop: "306x372"
       mobile: "300x365"
+  posts:
+    _merge: deep
+    thumbnail:
+      _merge: deep
+      desktop: "636x420"
   places:
     _merge: deep
     items:

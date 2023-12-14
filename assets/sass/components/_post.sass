@@ -1,0 +1,39 @@
+.post
+    --bs-card-spacer-x: 0
+    --bs-card-spacer-y: 1rem
+    --bs-card-border-width: 0
+    --bs-card-border-radius: 0
+    --bs-card-inner-border-radius: 0
+    --bs-card-bg: transparent
+    --bs-card-cap-bg: transparent
+    --bs-card-cap-padding-x: 0
+    --bs-card-cap-padding-y: 1rem
+    @extend .card
+    .media
+        --bs-aspect-ratio: 43%
+    .content
+        order: 3
+    .metas
+        @extend .card-footer
+        padding-bottom: 0
+    .category
+        &::before
+            content: '—'
+            margin-left: .25rem
+            margin-right: .25rem
+    a
+        @extend .stretched-link
+
+    @include media-breakpoint-up(md)
+        display: grid
+        grid-template-columns: 1fr 1fr
+        grid-column-gap: $grid-gutter-width
+        .media
+            grid-row: 1 / 3
+        .content,
+        .metas
+            grid-column: 2
+        .content
+            align-self: flex-start
+        .metas
+            align-self: flex-end

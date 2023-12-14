@@ -28,6 +28,7 @@ blocks:
       - droit-du-travail
       - droit-des-affaires
   - type: map
+    background: true
     show_places: true
     heading:
       surtitle: Cabinets
@@ -44,8 +45,13 @@ blocks:
       - louise-dubois
       - omar-altman
   - type: latest
+    section: posts
+    count: 2
+    heading:
+      surtitle: Actualité
+      title: Les dernièrs articles
+  - type: latest
     section: publications
-    background: true
     count: 4
     heading:
       surtitle: Presse
